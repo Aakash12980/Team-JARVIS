@@ -1,2 +1,2 @@
 # Team-JARVIS
-IOT in Health (for visually impaired people
+A product for visually impaired people which let them walk more safely.
