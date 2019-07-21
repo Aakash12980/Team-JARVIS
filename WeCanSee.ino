@@ -18,7 +18,7 @@ void setup() {
   Serial.begin(9600);
 }
 void loop() {
-  
+  // for Objects and people
   digitalWrite(trigPin1, LOW);
   delayMicroseconds(2);
   digitalWrite(trigPin1, HIGH);
@@ -42,9 +42,7 @@ void loop() {
   }else{
     digitalWrite(buzzPin, HIGH);
   }
-
-
-
+// For Pits
 
   digitalWrite(trigPin2, LOW);
   delayMicroseconds(2);
